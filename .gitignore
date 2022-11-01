@@ -1,0 +1,12 @@
+venv/
+
+__pychache__/
+
+main.py
+.env 
+
+*.txt
+*.jpg
+*.png
+*.jpeg
+*.csv
